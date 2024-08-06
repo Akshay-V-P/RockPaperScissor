@@ -3,9 +3,9 @@ const playerDisplay = document.querySelector(".player-display")
 const computeDisplay = document.querySelector(".computer-display")
 
 // image path constants
-const scissorRoot = `./img/signs/scissor-sign.png`
-const paperRoot = `./img/signs/paper-sign.png`
-const rockRoot = `./img/signs/rock-sign.png`
+const scissorRoot = `./img/signs/Scissor-sign.png`
+const paperRoot = `./img/signs/Paper-sign.png`
+const rockRoot = `./img/signs/Rock-sign.png`
 
 // sign image element
 const playerImg = playerDisplay.querySelector("img")
